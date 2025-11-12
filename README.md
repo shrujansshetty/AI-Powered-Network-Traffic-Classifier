@@ -14,7 +14,7 @@ source .venv/bin/activate
 pip install pandas numpy scikit-learn joblib scapy
 ```
 
--Capture network packets:
+- Capture network packets:
 
 ```bash
 sudo python3 capture_packets.py
@@ -31,3 +31,4 @@ sudo python3 train_model.py
 ```bash
 sudo python3 classify_live.py
 ```
+
